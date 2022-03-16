@@ -1,0 +1,19 @@
+{
+  "name": "test-task-berlin-senior",
+  "version": "1.0.0",
+  "description": "Test task of dynamic keys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eduard-Konovka/test-task-berlin-senior.git"
+  },
+  "author": "Eduard Konovka <ed098ua@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eduard-Konovka/test-task-berlin-senior/issues"
+  },
+  "homepage": "https://github.com/Eduard-Konovka/test-task-berlin-senior#readme"
+}
